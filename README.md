@@ -1,0 +1,2 @@
+# manuru.ru
+Personal website
